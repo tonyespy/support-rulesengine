@@ -49,7 +49,7 @@
 		<repository>
                        <id>staging</id>
                        <name>EdgeX Staging Repository</name>
-                       <url>${nexusproxy}/${repobasepath}/staging</url>
+                       <url>${nexusproxy}/${repobasepath}/autorelease-18013</url>
                </repository>
                <repository>
                        <id>snapshots</id>
