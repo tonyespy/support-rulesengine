@@ -35,7 +35,7 @@
 		<core-command-client.version>0.5.0-SNAPSHOT</core-command-client.version>
 		<core-exception.version>0.5.0-SNAPSHOT</core-exception.version>
 		<export-domain.version>0.6.0-SNAPSHOT</export-domain.version>
-		<core-test.version>0.6.0-SNAPSHOT</core-test.version>
+		<core-test.version>0.6.0</core-test.version>
 		<support-logging-client.version>0.5.0-SNAPSHOT</support-logging-client.version>
 		<assembley-plugin.version>2.5.5</assembley-plugin.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
